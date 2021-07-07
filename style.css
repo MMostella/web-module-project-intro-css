@@ -1,0 +1,115 @@
+* {
+    line-height: 1.5;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: 'Roboto Mono', monospace;
+    margin: 2% 10% 2% 10%;
+}
+
+.plan {
+    background-color: #FF764E;
+    border: 2px solid #FF764E;
+    border-radius: 15px;
+    color: white;
+    font-size: 20px;
+    padding: 5px 30px 5px 30px;
+    margin-top: 20px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.plan:hover {
+    background-color: #FFD580;
+    color: black;
+    border: 2px solid #FF764E;
+}
+
+.learn {
+    background-color: #5ED3EB;
+    border: 2px solid #5ED3EB;
+    border-radius: 15px;
+    color: white;
+    font-size: 20px;
+    padding: 5px 30px 5px 30px;
+    margin-top: 20px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.learn:hover {
+    background-color: #d4ebf2;
+    color: black;
+    border: 2px solid #5ED3EB;
+}
+
+.involved {
+    background-color: #FFCD69;
+    border: 2px solid #FFCD69;
+    border-radius: 15px;
+    color: white;
+    font-size: 20px;
+    padding: 5px 30px 5px 30px;
+    margin-top: 20px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.involved:hover {
+    background-color: #ffffed;
+    color: black;
+    border: 2px solid #FFCD69;
+}
+
+.headerPhoto {
+    width: 450px;
+    border-radius: 100%;
+    float: left;
+    margin: 2% 5% 0 12%;
+}
+
+header {
+    margin: 0 10% 0 10%;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 2;
+}
+
+.Yosemite {
+    font-family: 'Chelsea Market', cursive;
+    font-size: 75px;
+}
+
+header p{
+    font-family: 'Roboto Mono', monospace;
+}
+
+section div p {
+    margin: 10% 0 10% 0;
+}
+
+.info {
+    color: white;
+    background-color: #DDB9A3;
+    text-align: center;
+    width: 90%;
+    margin: 7% 5% 1% 5%;
+    padding: 10px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.centerPhoto {
+    width: 100px;
+}
+
+.center {
+    text-align: center;
+    margin: 0 43% 2% 43%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.footerPhoto {
+    height: 400px;
+    width: 100%;
+}
