@@ -62,7 +62,7 @@
 }
 
 .headerPhoto {
-    width: 450px;
+    width: 25%;
     border-radius: 100%;
     float: left;
     margin: 2% 5% 0 12%;
@@ -78,7 +78,7 @@ header {
 
 .Yosemite {
     font-family: 'Chelsea Market', cursive;
-    font-size: 75px;
+    font-size: 400%;
 }
 
 header p{
@@ -100,7 +100,7 @@ section div p {
 }
 
 .centerPhoto {
-    width: 100px;
+    width: 40%;
 }
 
 .center {
@@ -110,6 +110,6 @@ section div p {
 }
 
 .footerPhoto {
-    height: 400px;
+    height: 2%;
     width: 100%;
 }
